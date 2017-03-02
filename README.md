@@ -9,6 +9,24 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
 
+##Concepts Covered
+Components
+Binding
+Templates
+Events
+Directives
+Services
+
+
+##Observables
+Observables is an ES7 feature which means you need to make use of an external library to use it today. RxJS is a good one. RxJS also provides Observable operators which you can use to manipulate the data being emitted. Some of these operators are:
+
+Map
+Filter
+Take
+Skip
+Debounce
+
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
