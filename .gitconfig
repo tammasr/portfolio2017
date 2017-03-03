@@ -1,0 +1,10 @@
+
+
+[http]
+	sslVerify =false
+	proxy = http://proxyvipfmcc.nb.ford.com:83
+
+[https]
+	proxy = https://proxyvipfmcc.nb.ford.com:83
+
+
